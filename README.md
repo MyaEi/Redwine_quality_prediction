@@ -46,7 +46,3 @@ Postgraduate student at Fanshawe College, passionate about data science and mach
 
 [LinkedIn Profile](https://www.linkedin.com/in/mya-ei-win-6911aa82)
 
----
-
-## License
-This project is for educational purposes. Feel free to use or adapt the code with attribution.
