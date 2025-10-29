@@ -42,7 +42,7 @@ This project predicts the quality of red wine using machine learning techniques.
 
 ## About Me
 **Mya Ei Win**  
-Postgraduate student at Fanshawe College, passionate about data science and machine learning. Seeking a Winter co-op opportunity to apply analytical and technical skills in real-world projects.
+Postgraduate student at Fanshawe College, passionate about data science and machine learning. Seeking an opportunity to apply analytical and technical skills in real-world projects.
 
 [LinkedIn Profile](https://www.linkedin.com/in/mya-ei-win-6911aa82)
 
